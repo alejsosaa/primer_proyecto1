@@ -1,0 +1,6 @@
+ADMIN: aleadmin@gmail.com
+Contraseña: Ale2023
+
+
+CLIENTE: alecliente@gmail.com
+Contraseña: Ale2023
